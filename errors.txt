@@ -1,0 +1,5 @@
+2024-07-03T17:08:26.723Z - Error in encryptString: data and salt arguments required
+2024-07-03T17:09:44.284Z - Error in encryptString: data and salt arguments required
+2024-07-03T17:11:51.845Z - Error in encryptString: data and salt arguments required
+2024-07-03T17:12:04.616Z - Not found
+2024-07-03T17:13:01.960Z - Error in compareString: data and hash arguments required
